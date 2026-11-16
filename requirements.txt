@@ -1,0 +1,12 @@
+# Versions recorded in the reported run (Kaggle, Python 3.12)
+numpy==2.0.2
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.6.1
+xgboost==3.2.0
+# Versions not recorded by the notebook; ranges as checked in Section 1
+statsmodels>=0.14,<1
+pyarrow>=15,<24
+matplotlib
+packaging
+ipython
